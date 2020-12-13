@@ -1,0 +1,40 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.17.2",
+    "chalk": "^2.0.1",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^1.3.2",
+    "connect-redis": "^3.3.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.3",
+    "express-session": "^1.15.4",
+    "express-validator": "^3.2.1",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "grunt-contrib-nodemon": "^0.5.4",
+    "lodash": "^4.17.4",
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.5",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-timestamp": "^0.6.0",
+    "morgan": "^1.8.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.3",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {}
+}

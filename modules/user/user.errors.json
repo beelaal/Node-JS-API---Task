@@ -1,0 +1,57 @@
+{
+  "5000": {
+    "msg": {
+      "EN": "Please enter email address"
+    }
+  },
+  "5001": {
+    "msg": {
+      "EN": " Please enter a valid email address."
+    }
+  },
+  "5002": {
+    "msg": {
+      "EN": "Please enter password"
+    }
+  },
+  "5003": {
+    "msg": {
+      "EN": "Please enter complete name"
+    }
+  },
+  "5004": {
+    "msg": {
+      "EN": "Password must be at least 8 characters long"
+    }
+  },
+  "5005": {
+    "msg": {
+      "EN": "Please enter mobile number."
+    }
+  },
+  "5006": {
+    "msg": {
+      "EN": "Please enter valid mobile number."
+    }
+  },
+  "5007": {
+    "msg": {
+      "EN": "Please enter mobile phone or email address."
+    }
+  },
+  "5008": {
+    "msg": {
+      "EN": "This account doesn’t exist. Please enter a different email/mobile."
+    }
+  },
+  "5009": {
+    "msg": {
+      "EN": "Your account is not validated."
+    }
+  },
+  "5010": {
+    "msg": {
+      "EN": "Invalid username or password."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "host": {
+    "port": "3200"
+  },
+  "mongodb": {
+    "host": "mongodb://localhost:27017/",
+    "db_name": "Task",
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379
+  },
+  "session": {
+    "secret": "*&secretkeyhere&#"
+  }, 
+  "aws": {
+    "s3": {
+      
+    }
+  }
+  
+}
